@@ -1,5 +1,2 @@
-# Start of react js tutorial from youtube
-Deployed Links:
+# react js projects from youtube
 
-bg changer -
-currency converter -
